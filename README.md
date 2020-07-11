@@ -1,6 +1,12 @@
 ### Hi! 👋
 
-I'm a full stack software engineer. I also make YouTube videos.
+I'm a full stack software engineer. 🏗
+
+I also make the occasional coding video 📽
+
+and publish a repo from time to time. 🐙
+
+Tech house for life. 🎶
 
 #### 🤓 Check out my latest uploads
 
