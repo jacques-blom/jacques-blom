@@ -1,8 +1,8 @@
-## Hi! 👋
+### Hi! 👋
 
 I'm a full stack software engineer. I also make YouTube videos.
 
-### 🤓 Check out my latest uploads
+#### 🤓 Check out my latest uploads
 
 <!-- YT TABLE START -->
 | <a href="https://www.youtube.com/watch?v=9JVE8OGRSlA"><img src="https://img.youtube.com/vi/9JVE8OGRSlA/maxresdefault.jpg" width="200" style="border-radius:20px;" /></a> | <a href="https://www.youtube.com/watch?v=KBE7Ezn7h0A"><img src="https://img.youtube.com/vi/KBE7Ezn7h0A/maxresdefault.jpg" width="200" style="border-radius:20px;" /></a> |
