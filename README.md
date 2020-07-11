@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Subscribe to my YouTube channel. Check out my videos [here](https://www.youtube.com/channel/UCk7n3lGPpGliKoTvFHoO_vg).
+
 <!--
 **jacques-blom/jacques-blom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
