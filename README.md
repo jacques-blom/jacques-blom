@@ -20,4 +20,4 @@ Tech house for life. 🎶
 
 <img src="https://img.youtube.com/vi/KBE7Ezn7h0A/maxresdefault.jpg" align="center" width="100%" height="0" />
 
-[☝️ How this works](https://github.com/jacques-blom/youtube-readme-sync)
+[☝️ How this works](https://github.com/jacques-blom/dynamic-github-profile)
