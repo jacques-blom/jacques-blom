@@ -18,8 +18,6 @@ Tech house for life. 🎶
 
 &nbsp;
 
----
-
 [<img src="https://img.youtube.com/vi/KBE7Ezn7h0A/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=KBE7Ezn7h0A)
 **[Intro to Recoil - A great new Redux alternative?](https://www.youtube.com/watch?v=KBE7Ezn7h0A)**
 <!-- YT TABLE END -->
@@ -28,6 +26,4 @@ Tech house for life. 🎶
 
 &nbsp;
 
----
-
-[How this works](https://github.com/jacques-blom/youtube-readme-sync)
+[☝️ How this works](https://github.com/jacques-blom/youtube-readme-sync)
