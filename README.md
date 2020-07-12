@@ -23,3 +23,8 @@ Tech house for life. 🎶
 <img src="https://img.youtube.com/vi/KBE7Ezn7h0A/maxresdefault.jpg" align="center" width="100%" height="0" />
 
 [☝️ How this works](https://github.com/jacques-blom/dynamic-github-profile)
+<!-- YT TABLE START -->
+| <a href="https://www.youtube.com/watch?v=9JVE8OGRSlA"><img src="https://img.youtube.com/vi/9JVE8OGRSlA/maxresdefault.jpg" width="200" style="border-radius:20px;" /></a> | <a href="https://www.youtube.com/watch?v=KBE7Ezn7h0A"><img src="https://img.youtube.com/vi/KBE7Ezn7h0A/maxresdefault.jpg" width="200" style="border-radius:20px;" /></a> |
+| --- | --- |
+| **[Let&#39;s build a high performance app using Recoil and React ](https://www.youtube.com/watch?v=9JVE8OGRSlA)** | **[Intro to Recoil - A great new Redux alternative? ](https://www.youtube.com/watch?v=KBE7Ezn7h0A)** |
+<!-- YT TABLE END -->undefined
