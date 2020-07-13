@@ -23,3 +23,5 @@ Tech house for life. 🎶
         **[Intro to Recoil - A great new Redux alternative? ](https://www.youtube.com/watch?v=KBE7Ezn7h0A)**
         <br /> *28 Jun 2020*
 <!-- YT LIST END -->
+
+[☝️ How this works](https://github.com/jacques-blom/dynamic-github-profile)
