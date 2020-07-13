@@ -25,7 +25,5 @@ Tech house for life. 🎶
 <img align="center" width="100%" height="0" />
 
 <!-- YT LIST END -->
-<img align="center" width="100%" height="0" />
-
 
 [☝️ How this works](https://github.com/jacques-blom/dynamic-github-profile)
