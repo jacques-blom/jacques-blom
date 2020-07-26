@@ -11,17 +11,17 @@ Tech house for life. 🎶
 #### 🤓 Check out my latest videos
 
 <!-- YT LIST START -->
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/43d5f9cdc7d31715a4e576e55224cd117cf85069/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=z6qmP6JJvz8)
+[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/699ff35f97079edf3384f41aace5975280513a1c/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=Hkd9gMYuYu4)
+        **[Data Fetching with React Suspense and Recoil (Part 1)](https://www.youtube.com/watch?v=Hkd9gMYuYu4)**
+        <br /> *25 Jul 2020*
+<img align="center" width="100%" height="0" />
+[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/ef89860a0b03b6dd4c9d5eefd9f1ed89e80829e1/assets/1.png" align="left" width="200" />](https://www.youtube.com/watch?v=z6qmP6JJvz8)
         **[Make your GitHub profile dynamic using a serverless function](https://www.youtube.com/watch?v=z6qmP6JJvz8)**
         <br /> *13 Jul 2020*
 <img align="center" width="100%" height="0" />
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/27318bbc066548107261751c953a60338c79f91c/assets/1.png" align="left" width="200" />](https://www.youtube.com/watch?v=9JVE8OGRSlA)
+[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/6b83766144d31cdec25c19efea5476ae63ee735d/assets/2.png" align="left" width="200" />](https://www.youtube.com/watch?v=9JVE8OGRSlA)
         **[Let&#39;s build a high performance app using Recoil and React ](https://www.youtube.com/watch?v=9JVE8OGRSlA)**
         <br /> *07 Jul 2020*
-<img align="center" width="100%" height="0" />
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/bb3960ec364ae8ad3952b6f66328d4dfb59cd5ac/assets/2.png" align="left" width="200" />](https://www.youtube.com/watch?v=KBE7Ezn7h0A)
-        **[Intro to Recoil - A great new Redux alternative? ](https://www.youtube.com/watch?v=KBE7Ezn7h0A)**
-        <br /> *28 Jun 2020*
 <img align="center" width="100%" height="0" />
 <!-- YT LIST END -->
 
