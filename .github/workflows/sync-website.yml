@@ -1,0 +1,61 @@
+name: Sync website highlights
+
+on:
+  schedule:
+    # Mondays at 08:23 in Cape Town (06:23 UTC).
+    - cron: '23 6 * * 1'
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/sync-website.yml
+  pull_request:
+    paths:
+      - README.md
+      - scripts/**
+      - .github/workflows/sync-website.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: website-highlights-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
+      - name: Verify the live website can be read
+        run: python3 scripts/sync_website.py
+
+  sync:
+    needs: verify
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: master
+      - run: python3 scripts/sync_website.py
+      - name: Commit only changed highlights
+        run: |
+          if git diff --quiet -- README.md; then
+            echo 'Website highlights are unchanged.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update website highlights'
+          git push origin HEAD:master
