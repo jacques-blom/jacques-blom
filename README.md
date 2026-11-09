@@ -1,28 +1,26 @@
-### Hi! 👋
+# Hi, I’m Jacques.
 
-I'm a full stack software engineer. 🏗
+I’m a software engineer from Cape Town and co-founder of [Fudge](https://www.fudge.ai/), where I build AI agents for Shopify stores. I try out new models and tools and write about what I learn.
 
-I also make the occasional coding video 📽
+I started building businesses while I was still at school. At fourteen, I made iStyla, a browser extension for customising Facebook that grew to around 80,000 users. Since then I’ve worked on small startup teams at Names & Faces and Milk Video, and built Fudge with my co-founder Simeon.
 
-and publish a repo from time to time. 🐙
+I like helping other developers understand how things work. I’ve taught through articles, videos, conference talks, and [Learn Recoil](https://www.jacquesblom.com/library/learn-recoil/), a course built around making a drawing app. Recoil is now archived; the course remains part of my [teaching library](https://www.jacquesblom.com/library/).
 
-Tech house for life. 🎶
+## From my website
 
-#### 🤓 Check out my latest videos
+Projects, tutorials, and talks selected on [jacquesblom.com](https://www.jacquesblom.com/).
 
-<!-- YT LIST START -->
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/3a770a0a0d3cfe8c069d3fb907ed91dd6b6cd86b/assets/0.png" align="left" width="200" />](https://www.youtube.com/watch?v=Ov2x6NqxNqY)
-        **[Data Fetching with React Suspense and Recoil (Part 2)](https://www.youtube.com/watch?v=Ov2x6NqxNqY)**
-        <br /> *26 Jul 2020*
-<img align="center" width="100%" height="0" />
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/e1baa0120dda93508fc63808214649666cc391d3/assets/1.png" align="left" width="200" />](https://www.youtube.com/watch?v=Hkd9gMYuYu4)
-        **[Data Fetching with React Suspense and Recoil (Part 1)](https://www.youtube.com/watch?v=Hkd9gMYuYu4)**
-        <br /> *25 Jul 2020*
-<img align="center" width="100%" height="0" />
-[<img src="https://raw.githubusercontent.com/jacques-blom/jacques-blom/6bcb7cf677ba476f0170e8511645195e48e1929c/assets/2.png" align="left" width="200" />](https://www.youtube.com/watch?v=z6qmP6JJvz8)
-        **[Make your GitHub profile dynamic using a serverless function](https://www.youtube.com/watch?v=z6qmP6JJvz8)**
-        <br /> *13 Jul 2020*
-<img align="center" width="100%" height="0" />
-<!-- YT LIST END -->
+<!-- WEBSITE HIGHLIGHTS START -->
 
-[☝️ How this works](https://github.com/jacques-blom/dynamic-github-profile)
+- **[Counted](https://www.jacquesblom.com/work/counted/)** — Project · 2026–present
+  A website and public API for exploring South African local election results.
+
+- **[How do React Hooks really work? Let's build useState from scratch\!](https://www.jacquesblom.com/library/react-hooks-from-scratch/)** — Video · 29 Mar 2021
+  Build a small version of useState to understand how hooks preserve values between renders and keep multiple counters independent.
+
+- **[The browser as a video rendering engine: Deep dive into time management](https://www.jacquesblom.com/library/browser-as-video-rendering-engine/)** — Talk · 25 Dec 2021
+  How we used the browser to render video at Milk Video, keeping clips, scenes, and captions in sync.
+
+<!-- WEBSITE HIGHLIGHTS END -->
+
+[More about me](https://www.jacquesblom.com/about/) · [My work](https://www.jacquesblom.com/work/) · [Library](https://www.jacquesblom.com/library/) · [X](https://x.com/jacques_codes)
